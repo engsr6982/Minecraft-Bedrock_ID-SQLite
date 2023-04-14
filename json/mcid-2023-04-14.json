@@ -1871,6 +1871,654 @@
             "type": "建筑",
             "path": "todo",
             "img": "todo1"
+        },
+        {
+            "name": "砂岩",
+            "id": "minecraft:sandstone",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "錾制砂岩",
+            "id": "minecraft:sandstone",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "切制砂岩",
+            "id": "minecraft:sandstone",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "平滑砂岩",
+            "id": "minecraft:sandstone",
+            "dv": 3,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红砂岩",
+            "id": "minecraft:red_sandstone",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "錾制红砂岩",
+            "id": "minecraft:red_sandstone",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "切制红砂岩",
+            "id": "minecraft:red_sandstone",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "平滑红砂岩",
+            "id": "minecraft:red_sandstone",
+            "dv": 3,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "煤炭块",
+            "id": "minecraft:coal_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "干海带块",
+            "id": "minecraft:dried_kelp_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金块",
+            "id": "minecraft:gold_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁块",
+            "id": "minecraft:iron_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铜方块",
+            "id": "minecraft:copper_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "斑驳的铜块",
+            "id": "minecraft:exposed_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锈蚀的铜块",
+            "id": "minecraft:weathered_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "氧化的铜块",
+            "id": "minecraft:oxidized_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "涂蜡的铜方块",
+            "id": "minecraft:waxed_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "斑驳的涂蜡铜块",
+            "id": "minecraft:waxed_exposed_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锈蚀的涂蜡铜块",
+            "id": "minecraft:waxed_weathered_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "氧化的涂蜡铜块",
+            "id": "minecraft:waxed_oxidized_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "切制铜块",
+            "id": "minecraft:cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "外露切制铜块",
+            "id": "minecraft:exposed_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "风化切制铜块",
+            "id": "minecraft:weathered_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "氧化切制铜块",
+            "id": "minecraft:oxidized_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "涂蜡切制铜块",
+            "id": "minecraft:waxed_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "斑驳的涂蜡切制铜块",
+            "id": "minecraft:waxed_exposed_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锈蚀的涂蜡切制铜块",
+            "id": "minecraft:waxed_weathered_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "氧化的涂蜡切制铜块",
+            "id": "minecraft:waxed_oxidized_cut_copper",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "绿宝石块",
+            "id": "minecraft:emerald_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石块",
+            "id": "minecraft:diamond_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "青金石块",
+            "id": "minecraft:lapis_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粗铁块",
+            "id": "minecraft:raw_iron_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粗铜块",
+            "id": "minecraft:raw_copper_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粗金块",
+            "id": "minecraft:raw_gold_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石英块",
+            "id": "minecraft:quartz_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石英柱",
+            "id": "minecraft:quartz_block",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "錾制石英块",
+            "id": "minecraft:quartz_block",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "平滑石英块",
+            "id": "minecraft:quartz_block",
+            "dv": 3,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "海晶石",
+            "id": "minecraft:prismarine",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "暗海晶石",
+            "id": "minecraft:prismarine",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粘液块",
+            "id": "minecraft:slime",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蜂蜜方块",
+            "id": "minecraft:honey_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蜜脾块",
+            "id": "minecraft:honeycomb_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "干草块",
+            "id": "minecraft:hay_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "骨块",
+            "id": "minecraft:bone_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下届砖块",
+            "id": "minecraft:nether_brick",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色下届砖",
+            "id": "minecraft:red_nether_brick",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下届合金块",
+            "id": "minecraft:netherite_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "磁石",
+            "id": "minecraft:lodestone",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "白色羊毛",
+            "id": "minecraft:white_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡灰色羊毛",
+            "id": "minecraft:light_gray_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "灰色羊毛",
+            "id": "minecraft:gray_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黑色羊毛",
+            "id": "minecraft:black_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "棕色羊毛",
+            "id": "minecraft:brown_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色羊毛",
+            "id": "minecraft:red_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "橙色羊毛",
+            "id": "minecraft:orange_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄色羊毛",
+            "id": "minecraft:yellow_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄绿色羊毛",
+            "id": "minecraft:lime_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "绿色羊毛",
+            "id": "minecraft:green_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "青色羊毛",
+            "id": "minecraft:cyan_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡蓝色羊毛",
+            "id": "minecraft:light_blue_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蓝色羊毛",
+            "id": "minecraft:blue_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫色羊毛",
+            "id": "minecraft:purple_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "品红色羊毛",
+            "id": "minecraft:magenta_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粉红色羊毛",
+            "id": "minecraft:pink_wool",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "白色地毯",
+            "id": "minecraft:carpet",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡灰色地毯",
+            "id": "minecraft:carpet",
+            "dv": 8,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "灰色地毯",
+            "id": "minecraft:carpet",
+            "dv": 7,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黑色地毯",
+            "id": "minecraft:carpet",
+            "dv": 15,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "棕色地毯",
+            "id": "minecraft:carpet",
+            "dv": 12,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色地毯",
+            "id": "minecraft:carpet",
+            "dv": 14,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "橙色地毯",
+            "id": "minecraft:carpet",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄色地毯",
+            "id": "minecraft:carpet",
+            "dv": 4,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄绿色地毯",
+            "id": "minecraft:carpet",
+            "dv": 5,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "绿色地毯",
+            "id": "minecraft:carpet",
+            "dv": 13,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "青色地毯",
+            "id": "minecraft:carpet",
+            "dv": 9,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡蓝色地毯",
+            "id": "minecraft:carpet",
+            "dv": 3,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蓝色地毯",
+            "id": "minecraft:carpet",
+            "dv": 11,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫色地毯",
+            "id": "minecraft:carpet",
+            "dv": 10,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "品红色地毯",
+            "id": "minecraft:carpet",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粉红色地毯",
+            "id": "minecraft:carpet",
+            "dv": 6,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
         }
     ]
 }
