@@ -2519,6 +2519,510 @@
             "type": "建筑",
             "path": "todo",
             "img": "todo1"
+        },
+        {
+            "name": "白色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡灰色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 8,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "灰色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 7,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黑色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 15,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "棕色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 12,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 14,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "橙色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 4,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄绿色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 5,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "绿色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 13,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "青色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 9,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡蓝色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 3,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蓝色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 11,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 10,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "品红色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粉红色混凝土粉末",
+            "id": "minecraft:concrete_powder",
+            "dv": 6,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "白色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡灰色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 8,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "灰色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 7,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黑色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 15,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "棕色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 12,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 14,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "橙色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 4,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄绿色混凝土",
+            "id": "minecraft:concrete",
+            "dv": 5,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粘土块",
+            "id": "minecraft:clay",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "陶瓦",
+            "id": "minecraft:hardened_clay",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "白色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡灰色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 8,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "灰色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 7,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黑色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 15,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "棕色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 12,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 14,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "橙色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 1,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 4,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄绿色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 5,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "绿色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 13,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "青色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 9,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡蓝色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 3,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蓝色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 11,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 10,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "品红色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粉红色陶瓦",
+            "id": "minecraft:stained_hardened_clay",
+            "dv": 6,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "白色带釉陶瓦",
+            "id": "minecraft:white_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡灰色带釉陶瓦",
+            "id": "minecraft:silver_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "灰色带釉陶瓦",
+            "id": "minecraft:gray_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黑色带釉陶瓦",
+            "id": "minecraft:black_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "棕色带釉陶瓦",
+            "id": "minecraft:brown_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "红色带釉陶瓦",
+            "id": "minecraft:red_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "橙色带釉陶瓦",
+            "id": "minecraft:orange_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄色带釉陶瓦",
+            "id": "minecraft:yellow_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄绿色带釉陶瓦",
+            "id": "minecraft:lime_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "绿色带釉陶瓦",
+            "id": "minecraft:green_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "青色带釉陶瓦",
+            "id": "minecraft:cyan_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "淡蓝色带釉陶瓦",
+            "id": "minecraft:light_blue_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蓝色带釉陶瓦",
+            "id": "minecraft:blue_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫色带釉陶瓦",
+            "id": "minecraft:purple_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "品红色带釉陶瓦",
+            "id": "minecraft:magenta_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粉红色带釉陶瓦",
+            "id": "minecraft:pink_glazed_terracotta",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫珀方块",
+            "id": "minecraft:purpur_block",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "紫珀柱子",
+            "id": "minecraft:purpur_block",
+            "dv": 2,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "填充泥浆",
+            "id": "minecraft:packed_mud",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "泥砖",
+            "id": "minecraft:mud_bricks",
+            "dv": 0,
+            "type": "建筑",
+            "path": "todo",
+            "img": "todo1"
         }
     ]
 }
