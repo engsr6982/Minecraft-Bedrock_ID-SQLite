@@ -1,0 +1,56 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ID检索 Minecraft 工具站</title>
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;"/>
+    <!--<link rel="stylesheet" href="./assets/css/style.css">-->
+    <script language="javascript" type="text/javascript" >
+        //根据设备加载不同的样式
+        var setStyle = function(cssarr){
+            var i= 0,len = cssarr.length;
+                for(i;i<len;i++){
+                    document.write('<link href="'+cssarr[i]+'" rel=stylesheet>');
+                }
+        };
+        // 判断是否移动端
+        function goPAGE() {
+                if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+                    //判断访问环境是 移动端 则加载以下样式
+                    setStyle(['./assets/css/style1.css']);
+                }
+                else {
+                    setStyle(['./assets/css/style.css']);
+                    //setStyle(['./assets/css/style1.css']);
+                }
+            }
+        goPAGE();        // 调用function
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <h1>Minecraft “方块/物品”ID检索</h1><button class="bt" onclick="window.location.href='https://docs.25565.top/#/./md/API'">API接口</button>
+            <input type="text" id="search-input" placeholder="请输入要检索的“方块/物品”名称">
+            <ul id="result-list" style="overflow-y:scroll;">
+            </ul>
+            <div class="container-fluid" style="padding-top: 40px;">
+                <center>
+                    <footer class="col-lg-12 copyright-footer">Copyright &copy; 2022-2023 <a style="text-decoration: none;">TTFCraft</a></footer>
+                    <p>累计访问量：<span class="view">请求中</span><a style="color: rgba(225, 152, 243, 0.825);"> | </a>累计检索量：<span class="web_api">请求中</span><a style="color: rgba(225, 152, 243, 0.825);"> | </a>API累计请求量：<span class="serach-api">请求中</span></p>
+                    <p style="text-decoration: none; ">图片包版本：[1.19.41]<a style="color: rgba(225, 152, 243, 0.825);"> | </a>部分数据来源于<a style="text-decoration: none; " href="https://minecraft.fandom.com/zh/wiki/">FANDOM Minecraft Wiki</a></p>
+                    <!--<p style="text-decoration: none;">友情外链：
+                        <a style="text-decoration: none;" target="_blank" href="https://m.25565.top">TTFCraft - MC基岩版公益生存服务器</a>
+                    </p>-->
+                </center>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/search.js"></script>
+    <script src="./assets/js/api.js"></script>
+</body>
+</html>
