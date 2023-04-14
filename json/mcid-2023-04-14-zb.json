@@ -1,1 +1,2188 @@
-{ "id": [] }
+{
+    "id": [
+        {
+            "name": "皮革帽子",
+            "id": "minecraft:leather_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锁链头盔",
+            "id": "minecraft:chainmail_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁头盔",
+            "id": "minecraft:iron_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金头盔",
+            "id": "minecraft:golden_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石头盔",
+            "id": "minecraft:diamond_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金头盔",
+            "id": "minecraft:netherite_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "皮革胸甲",
+            "id": "minecraft:leather_chestplate",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锁链胸甲",
+            "id": "minecraft:chainmail_chestplate",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁胸甲",
+            "id": "minecraft:iron_chestplate",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金胸甲",
+            "id": "minecraft:golden_chestplate",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石胸甲",
+            "id": "minecraft:diamond_chestplate",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金胸甲",
+            "id": "minecraft:netherite_chestplate",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "皮革裤子",
+            "id": "minecraft:leather_leggings",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锁链护腿",
+            "id": "minecraft:chainmail_leggings",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁护腿",
+            "id": "minecraft:iron_leggings",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金护腿",
+            "id": "minecraft:golden_leggings",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石护腿",
+            "id": "minecraft:diamond_leggings",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金护腿",
+            "id": "minecraft:netherite_leggings",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "皮革靴子",
+            "id": "minecraft:leather_boots",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "锁链靴子",
+            "id": "minecraft:chainmail_boots",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁靴子",
+            "id": "minecraft:iron_boots",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金靴子",
+            "id": "minecraft:golden_boots",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石靴子",
+            "id": "minecraft:diamond_boots",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金靴子",
+            "id": "minecraft:netherite_boots",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "木剑",
+            "id": "minecraft:wooden_sword",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石剑",
+            "id": "minecraft:stone_sword",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁剑",
+            "id": "minecraft:iron_sword",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金剑",
+            "id": "minecraft:golden_sword",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石剑",
+            "id": "minecraft:diamond_sword",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金剑",
+            "id": "minecraft:netherite_sword",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "木斧",
+            "id": "minecraft:wooden_axe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石斧",
+            "id": "minecraft:stone_axe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁斧",
+            "id": "minecraft:iron_axe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金斧",
+            "id": "minecraft:golden_axe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石斧",
+            "id": "minecraft:diamond_axe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金斧头",
+            "id": "minecraft:netherite_axe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "木镐",
+            "id": "minecraft:wooden_pickaxe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石镐",
+            "id": "minecraft:stone_pickaxe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁镐",
+            "id": "minecraft:iron_pickaxe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金镐",
+            "id": "minecraft:golden_pickaxe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石镐",
+            "id": "minecraft:diamond_pickaxe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金镐",
+            "id": "minecraft:netherite_pickaxe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "木锹",
+            "id": "minecraft:wooden_shovel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石锹",
+            "id": "minecraft:stone_shovel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁锹",
+            "id": "minecraft:iron_shovel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金锹",
+            "id": "minecraft:golden_shovel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石锹",
+            "id": "minecraft:diamond_shovel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金锹",
+            "id": "minecraft:netherite_shovel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "木锄",
+            "id": "minecraft:wooden_hoe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "石锄",
+            "id": "minecraft:stone_hoe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁锄",
+            "id": "minecraft:iron_hoe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "金锄",
+            "id": "minecraft:golden_hoe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石锄",
+            "id": "minecraft:diamond_hoe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "下界合金锄头",
+            "id": "minecraft:netherite_hoe",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "弓",
+            "id": "minecraft:bow",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "弩",
+            "id": "minecraft:crossbow",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "箭",
+            "id": "minecraft:arrow",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "夜视箭",
+            "id": "minecraft:arrow",
+            "dv": 6,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "夜视箭",
+            "id": "minecraft:arrow",
+            "dv": 7,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "隐身箭",
+            "id": "minecraft:arrow",
+            "dv": 8,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "隐身箭",
+            "id": "minecraft:arrow",
+            "dv": 9,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "跳跃箭",
+            "id": "minecraft:arrow",
+            "dv": 10,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "跳跃箭",
+            "id": "minecraft:arrow",
+            "dv": 11,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "跳跃箭",
+            "id": "minecraft:arrow",
+            "dv": 12,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "抗火箭",
+            "id": "minecraft:arrow",
+            "dv": 13,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "抗火箭",
+            "id": "minecraft:arrow",
+            "dv": 14,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "迅捷之箭",
+            "id": "minecraft:arrow",
+            "dv": 15,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "迅捷之箭",
+            "id": "minecraft:arrow",
+            "dv": 16,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "迅捷之箭",
+            "id": "minecraft:arrow",
+            "dv": 17,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓慢之箭",
+            "id": "minecraft:arrow",
+            "dv": 18,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓慢之箭",
+            "id": "minecraft:arrow",
+            "dv": 19,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "水肺之箭",
+            "id": "minecraft:arrow",
+            "dv": 20,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "水肺之箭",
+            "id": "minecraft:arrow",
+            "dv": 21,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "治疗之箭",
+            "id": "minecraft:arrow",
+            "dv": 22,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "治疗之箭",
+            "id": "minecraft:arrow",
+            "dv": 23,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "伤害之箭",
+            "id": "minecraft:arrow",
+            "dv": 24,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "伤害之箭",
+            "id": "minecraft:arrow",
+            "dv": 25,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剧毒箭",
+            "id": "minecraft:arrow",
+            "dv": 26,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剧毒箭",
+            "id": "minecraft:arrow",
+            "dv": 27,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剧毒箭",
+            "id": "minecraft:arrow",
+            "dv": 28,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "再生之箭",
+            "id": "minecraft:arrow",
+            "dv": 29,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "再生之箭",
+            "id": "minecraft:arrow",
+            "dv": 30,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "再生之箭",
+            "id": "minecraft:arrow",
+            "dv": 31,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "力量之箭",
+            "id": "minecraft:arrow",
+            "dv": 32,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "力量之箭",
+            "id": "minecraft:arrow",
+            "dv": 33,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "力量之箭",
+            "id": "minecraft:arrow",
+            "dv": 34,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "虚弱之箭",
+            "id": "minecraft:arrow",
+            "dv": 35,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "虚弱之箭",
+            "id": "minecraft:arrow",
+            "dv": 36,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "衰变之箭",
+            "id": "minecraft:arrow",
+            "dv": 37,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "神龟之箭",
+            "id": "minecraft:arrow",
+            "dv": 38,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "神龟之箭",
+            "id": "minecraft:arrow",
+            "dv": 39,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "神龟之箭",
+            "id": "minecraft:arrow",
+            "dv": 40,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓降之箭",
+            "id": "minecraft:arrow",
+            "dv": 41,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓降之箭",
+            "id": "minecraft:arrow",
+            "dv": 42,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓慢之箭",
+            "id": "minecraft:arrow",
+            "dv": 43,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "护盾",
+            "id": "minecraft:shield",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "熟鸡肉",
+            "id": "minecraft:cooked_chicken",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "熟猪排",
+            "id": "minecraft:cooked_porkchop",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "牛排",
+            "id": "minecraft:cooked_beef",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "熟羊肉",
+            "id": "minecraft:cooked_mutton",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "熟兔肉",
+            "id": "minecraft:cooked_rabbit",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "熟鳕鱼",
+            "id": "minecraft:cooked_cod",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "熟鲑鱼",
+            "id": "minecraft:cooked_salmon",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "面包",
+            "id": "minecraft:bread",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蘑菇煲",
+            "id": "minecraft:mushroom_stew",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "甜菜汤",
+            "id": "minecraft:beetroot_soup",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "兔肉煲",
+            "id": "minecraft:rabbit_stew",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "烤马铃薯",
+            "id": "minecraft:baked_potato",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "曲奇",
+            "id": "minecraft:cookie",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "南瓜派",
+            "id": "minecraft:pumpkin_pie",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "蛋糕",
+            "id": "minecraft:cake",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "干海带",
+            "id": "minecraft:dried_kelp",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钓鱼竿",
+            "id": "minecraft:fishing_rod",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "胡萝卜钓竿",
+            "id": "minecraft:carrot_on_a_stick",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "诡异真菌钓竿",
+            "id": "minecraft:warped_fungus_on_a_stick",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "雪球",
+            "id": "minecraft:snowball",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剪刀",
+            "id": "minecraft:shears",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "打火石",
+            "id": "minecraft:flint_and_steel",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "拴绳",
+            "id": "minecraft:lead",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钟",
+            "id": "minecraft:clock",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "指南针",
+            "id": "minecraft:compass",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "追溯指针",
+            "id": "minecraft:recovery_compass",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 1,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 2,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 3,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 4,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 5,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 6,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "山羊角",
+            "id": "minecraft:goat_horn",
+            "dv": 7,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "空白地图",
+            "id": "minecraft:empty_map",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "空的定位器地图",
+            "id": "minecraft:empty_map",
+            "dv": 2,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "鞍",
+            "id": "minecraft:saddle",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "皮革马铠",
+            "id": "minecraft:leather_horse_armor",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "铁马铠",
+            "id": "minecraft:iron_horse_armor",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "黄金马铠",
+            "id": "minecraft:golden_horse_armor",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "钻石马铠",
+            "id": "minecraft:diamond_horse_armor",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "三叉戟",
+            "id": "minecraft:trident",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "海龟壳",
+            "id": "minecraft:turtle_helmet",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "鞘翅",
+            "id": "minecraft:elytra",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "不死图腾",
+            "id": "minecraft:totem_of_undying",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "玻璃瓶",
+            "id": "minecraft:glass_bottle",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "附魔之瓶",
+            "id": "minecraft:experience_bottle",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "水瓶",
+            "id": "minecraft:potion",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "平凡药水",
+            "id": "minecraft:potion",
+            "dv": 1,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "长久平凡药水",
+            "id": "minecraft:potion",
+            "dv": 2,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "浓稠药水",
+            "id": "minecraft:potion",
+            "dv": 3,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "粗制药水",
+            "id": "minecraft:potion",
+            "dv": 4,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "夜视药水",
+            "id": "minecraft:potion",
+            "dv": 5,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "夜视药水",
+            "id": "minecraft:potion",
+            "dv": 6,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "隐身药水",
+            "id": "minecraft:potion",
+            "dv": 7,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "隐身药水",
+            "id": "minecraft:potion",
+            "dv": 8,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "跳跃药水",
+            "id": "minecraft:potion",
+            "dv": 9,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "跳跃药水",
+            "id": "minecraft:potion",
+            "dv": 10,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "跳跃药水",
+            "id": "minecraft:potion",
+            "dv": 11,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "抗火药水",
+            "id": "minecraft:potion",
+            "dv": 12,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "抗火药水",
+            "id": "minecraft:potion",
+            "dv": 13,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "迅捷药水",
+            "id": "minecraft:potion",
+            "dv": 14,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "迅捷药水",
+            "id": "minecraft:potion",
+            "dv": 15,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "迅捷药水",
+            "id": "minecraft:potion",
+            "dv": 16,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓慢药水",
+            "id": "minecraft:potion",
+            "dv": 17,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓慢药水",
+            "id": "minecraft:potion",
+            "dv": 18,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "水肺药水",
+            "id": "minecraft:potion",
+            "dv": 19,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "水肺药水",
+            "id": "minecraft:potion",
+            "dv": 20,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "治疗药水",
+            "id": "minecraft:potion",
+            "dv": 21,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "治疗药水",
+            "id": "minecraft:potion",
+            "dv": 22,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "伤害药水",
+            "id": "minecraft:potion",
+            "dv": 23,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "伤害药水",
+            "id": "minecraft:potion",
+            "dv": 24,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剧毒药水",
+            "id": "minecraft:potion",
+            "dv": 25,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剧毒药水",
+            "id": "minecraft:potion",
+            "dv": 26,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "剧毒药水",
+            "id": "minecraft:potion",
+            "dv": 27,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "生命恢复药水",
+            "id": "minecraft:potion",
+            "dv": 28,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "生命恢复药水",
+            "id": "minecraft:potion",
+            "dv": 29,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "生命恢复药水",
+            "id": "minecraft:potion",
+            "dv": 30,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "力量药水",
+            "id": "minecraft:potion",
+            "dv": 31,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "力量药水",
+            "id": "minecraft:potion",
+            "dv": 32,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "力量药水",
+            "id": "minecraft:potion",
+            "dv": 33,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "虚弱药水",
+            "id": "minecraft:potion",
+            "dv": 34,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "虚弱药水",
+            "id": "minecraft:potion",
+            "dv": 35,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "衰变药水",
+            "id": "minecraft:potion",
+            "dv": 36,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "神龟药水",
+            "id": "minecraft:potion",
+            "dv": 37,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "神龟药水",
+            "id": "minecraft:potion",
+            "dv": 38,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "神龟药水",
+            "id": "minecraft:potion",
+            "dv": 39,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓降药水",
+            "id": "minecraft:potion",
+            "dv": 40,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓降药水",
+            "id": "minecraft:potion",
+            "dv": 41,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "缓慢药水",
+            "id": "minecraft:potion",
+            "dv": 42,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅水瓶",
+            "id": "minecraft:splash_potion",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型平凡药水",
+            "id": "minecraft:splash_potion",
+            "dv": 1,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型长久平凡药水",
+            "id": "minecraft:splash_potion",
+            "dv": 2,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型浓稠药水",
+            "id": "minecraft:splash_potion",
+            "dv": 3,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型粗制药水",
+            "id": "minecraft:splash_potion",
+            "dv": 4,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型夜视药水",
+            "id": "minecraft:splash_potion",
+            "dv": 5,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型夜视药水",
+            "id": "minecraft:splash_potion",
+            "dv": 6,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型隐身药水",
+            "id": "minecraft:splash_potion",
+            "dv": 7,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型隐身药水",
+            "id": "minecraft:splash_potion",
+            "dv": 8,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型跳跃药水",
+            "id": "minecraft:splash_potion",
+            "dv": 9,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型跳跃药水",
+            "id": "minecraft:splash_potion",
+            "dv": 10,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型跳跃药水",
+            "id": "minecraft:splash_potion",
+            "dv": 11,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型抗火药水",
+            "id": "minecraft:splash_potion",
+            "dv": 12,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型抗火药水",
+            "id": "minecraft:splash_potion",
+            "dv": 13,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型迅捷药水",
+            "id": "minecraft:splash_potion",
+            "dv": 14,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型迅捷药水",
+            "id": "minecraft:splash_potion",
+            "dv": 15,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型迅捷药水",
+            "id": "minecraft:splash_potion",
+            "dv": 16,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型缓慢药水",
+            "id": "minecraft:splash_potion",
+            "dv": 17,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型缓慢药水",
+            "id": "minecraft:splash_potion",
+            "dv": 18,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型水肺药水",
+            "id": "minecraft:splash_potion",
+            "dv": 19,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型水肺药水",
+            "id": "minecraft:splash_potion",
+            "dv": 20,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型治疗药水",
+            "id": "minecraft:splash_potion",
+            "dv": 21,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型治疗药水",
+            "id": "minecraft:splash_potion",
+            "dv": 22,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型伤害药水",
+            "id": "minecraft:splash_potion",
+            "dv": 23,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型伤害药水",
+            "id": "minecraft:splash_potion",
+            "dv": 24,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型剧毒药水",
+            "id": "minecraft:splash_potion",
+            "dv": 25,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型剧毒药水",
+            "id": "minecraft:splash_potion",
+            "dv": 26,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型剧毒药水",
+            "id": "minecraft:splash_potion",
+            "dv": 27,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型生命恢复药水",
+            "id": "minecraft:splash_potion",
+            "dv": 28,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型生命恢复药水",
+            "id": "minecraft:splash_potion",
+            "dv": 29,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型生命恢复药水",
+            "id": "minecraft:splash_potion",
+            "dv": 30,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型力量药水",
+            "id": "minecraft:splash_potion",
+            "dv": 31,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型力量药水",
+            "id": "minecraft:splash_potion",
+            "dv": 32,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型力量药水",
+            "id": "minecraft:splash_potion",
+            "dv": 33,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型虚弱药水",
+            "id": "minecraft:splash_potion",
+            "dv": 34,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型虚弱药水",
+            "id": "minecraft:splash_potion",
+            "dv": 35,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型衰变药水",
+            "id": "minecraft:splash_potion",
+            "dv": 36,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型神龟药水",
+            "id": "minecraft:splash_potion",
+            "dv": 37,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型神龟药水",
+            "id": "minecraft:splash_potion",
+            "dv": 38,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型神龟药水",
+            "id": "minecraft:splash_potion",
+            "dv": 39,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型缓降药水",
+            "id": "minecraft:splash_potion",
+            "dv": 40,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型缓降药水",
+            "id": "minecraft:splash_potion",
+            "dv": 41,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "喷溅型缓慢药水",
+            "id": "minecraft:splash_potion",
+            "dv": 42,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滯留水瓶",
+            "id": "minecraft:lingering_potion",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型平凡药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 1,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型长久平凡药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 2,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型浓稠药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 3,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型粗制药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 4,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型夜视药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 5,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型夜视药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 6,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型隐身药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 7,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型隐身药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 8,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型跳跃药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 9,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型跳跃药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 10,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型跳跃药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 11,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型抗火药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 12,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型抗火药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 13,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型迅捷药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 14,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型迅捷药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 15,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型迅捷药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 16,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型缓慢药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 17,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型缓慢药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 18,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型水肺药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 20,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型水肺药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 19,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型治疗药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 21,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型治疗药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 22,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型伤害药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 23,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型伤害药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 24,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型剧毒药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 25,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型剧毒药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 26,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型剧毒药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 27,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型生命恢复药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 28,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型生命恢复药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 29,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型生命恢复药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 30,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型力量药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 31,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型力量药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 32,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型力量药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 33,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型虚弱药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 34,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型虚弱药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 35,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型衰变药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 36,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型神龟药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 37,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型神龟药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 38,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型神龟药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 39,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型缓降药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 40,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型缓降药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 41,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "滞留型缓慢药水",
+            "id": "minecraft:lingering_potion",
+            "dv": 42,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        },
+        {
+            "name": "望远镜",
+            "id": "minecraft:spyglass",
+            "dv": 0,
+            "type": "装备",
+            "path": "todo",
+            "img": "todo1"
+        }
+    ]
+}
