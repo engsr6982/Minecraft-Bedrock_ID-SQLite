@@ -10,7 +10,7 @@ for (const itemOld of mcidOld.mcid) {
         }
     }
 }
-fs.writeFile('./ok.json', JSON.stringify(minecraft), (err) => {
+fs.writeFile('./ok.json', JSON.stringify(minecraft, null, '\t'), (err) => {
     if (err) throw err;
     console.log('更新成功');
 });
