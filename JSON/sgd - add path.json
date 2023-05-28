@@ -1,0 +1,515 @@
+{
+	"id": [
+		{
+			"name": "生成豹猫",
+			"id": "minecraft:ocelot_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_ocelot.png"
+		},
+		{
+			"name": "生成北极熊",
+			"id": "minecraft:polar_bear_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_polarbear.png"
+		},
+		{
+			"name": "生成狼",
+			"id": "minecraft:wolf_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_wolf.png"
+		},
+		{
+			"name": "生成羊",
+			"id": "minecraft:sheep_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_sheep.png"
+		},
+		{
+			"name": "生成猪",
+			"id": "minecraft:pig_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_pig.png"
+		},
+		{
+			"name": "生成牛",
+			"id": "minecraft:cow_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_cow.png"
+		},
+		{
+			"name": "生成蜜蜂",
+			"id": "minecraft:bee_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_bee"
+		},
+		{
+			"name": "生成鸡",
+			"id": "minecraft:chicken_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_chicken.png"
+		},
+		{
+			"name": "生成苦力怕",
+			"id": "minecraft:creeper_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_creeper.png"
+		},
+		{
+			"name": "生成狐狸",
+			"id": "minecraft:fox_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_fox.png"
+		},
+		{
+			"name": "生成骷髅马",
+			"id": "minecraft:skeleton_horse_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_skeletonhorse.png"
+		},
+		{
+			"name": "生成猫",
+			"id": "minecraft:cat_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_cat.png"
+		},
+		{
+			"name": "生成哞菇",
+			"id": "minecraft:mooshroom_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_mushroomcow.png"
+		},
+		{
+			"name": "生成热带鱼",
+			"id": "minecraft:tropical_fish_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_clownfish.png"
+		},
+		{
+			"name": "生成蝙蝠",
+			"id": "minecraft:bat_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_bat.png"
+		},
+		{
+			"name": "生成鹦鹉",
+			"id": "minecraft:parrot_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_parrot.png"
+		},
+		{
+			"name": "生成鳕鱼",
+			"id": "minecraft:cod_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_fish.png"
+		},
+		{
+			"name": "生成河豚",
+			"id": "minecraft:pufferfish_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_pufferfish.png"
+		},
+		{
+			"name": "生成鲑鱼",
+			"id": "minecraft:salmon_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_salmon.png"
+		},
+		{
+			"name": "生成兔子",
+			"id": "minecraft:rabbit_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_rabbit.png"
+		},
+		{
+			"name": "骡刷怪蛋",
+			"id": "minecraft:mule_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_mule.png"
+		},
+		{
+			"name": "生成熊猫",
+			"id": "minecraft:panda_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_panda.png"
+		},
+		{
+			"name": "生成驴",
+			"id": "minecraft:donkey_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_donkey.png"
+		},
+		{
+			"name": "生成海龟",
+			"id": "minecraft:turtle_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_turtle.png"
+		},
+		{
+			"name": "生成海豚",
+			"id": "minecraft:dolphin_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_dolphin.png"
+		},
+		{
+			"name": "生成马",
+			"id": "minecraft:horse_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_horse.png"
+		},
+		{
+			"name": "生成羊驼",
+			"id": "minecraft:llama_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_llama.png"
+		},
+		{
+			"name": "生成蠹虫",
+			"id": "minecraft:silverfish_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_silverfish.png"
+		},
+		{
+			"name": "生成末影人",
+			"id": "minecraft:enderman_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_enderman.png"
+		},
+		{
+			"name": "生成僵尸马",
+			"id": "minecraft:zombie_horse_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_zombiehorse.png"
+		},
+		{
+			"name": "生成守卫者",
+			"id": "minecraft:guardian_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_guardian.png"
+		},
+		{
+			"name": "生成僵尸猪灵",
+			"id": "minecraft:zombie_pigman_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_pigzombie.png"
+		},
+		{
+			"name": "生成僵尸",
+			"id": "minecraft:zombie_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_zombie.png"
+		},
+		{
+			"name": "生成蜘蛛",
+			"id": "minecraft:spider_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_spider.png"
+		},
+		{
+			"name": "生成史莱姆",
+			"id": "minecraft:slime_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_slime.png"
+		},
+		{
+			"name": "生成流浪者",
+			"id": "minecraft:stray_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_stray.png"
+		},
+		{
+			"name": "生成凋灵骷髅",
+			"id": "minecraft:wither_skeleton_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成洞穴蜘蛛",
+			"id": "minecraft:cave_spider_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_cave_spider.png"
+		},
+		{
+			"name": "生成女巫",
+			"id": "minecraft:witch_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_witch.png"
+		},
+		{
+			"name": "生成骷髅",
+			"id": "minecraft:skeleton_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_skeleton.png"
+		},
+		{
+			"name": "生成溺尸",
+			"id": "minecraft:drowned_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_drowned.png"
+		},
+		{
+			"name": "生成发光鱿鱼",
+			"id": "minecraft:glow_squid_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成鱿鱼",
+			"id": "minecraft:squid_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_squid.png"
+		},
+		{
+			"name": "生成尸壳",
+			"id": "minecraft:husk_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_husk.png"
+		},
+		{
+			"name": "生成远古守卫者",
+			"id": "minecraft:elder_guardian_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_elderguardian.png"
+		},
+		{
+			"name": "生成悦灵",
+			"id": "minecraft:allay_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成青蛙",
+			"id": "minecraft:frog_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成蝌蚪",
+			"id": "minecraft:tadpole_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成僵尸疣猪兽",
+			"id": "minecraft:zoglin_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成猪灵",
+			"id": "minecraft:piglin_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成疣猪兽",
+			"id": "minecraft:hoglin_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成炽足兽",
+			"id": "minecraft:strider_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成岩浆怪",
+			"id": "minecraft:magma_cube_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_lava_slime.png"
+		},
+		{
+			"name": "生成末影螨",
+			"id": "minecraft:endermite_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_endermite.png"
+		},
+		{
+			"name": "生成美西螈",
+			"id": "minecraft:axolotl_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成唤魔者",
+			"id": "minecraft:evoker_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_evoker.png"
+		},
+		{
+			"name": "生成卫道士",
+			"id": "minecraft:vindicator_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_vindicator.png"
+		},
+		{
+			"name": "生成潜影贝",
+			"id": "minecraft:shulker_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_shulker.png"
+		},
+		{
+			"name": "生成烈焰人",
+			"id": "minecraft:blaze_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_blaze.png"
+		},
+		{
+			"name": "生成恶魂",
+			"id": "minecraft:ghast_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_ghast.png"
+		},
+		{
+			"name": "生成行商羊驼",
+			"id": "minecraft:trader_llama_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成猪灵蛮兵",
+			"id": "minecraft:piglin_brute_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成山羊",
+			"id": "minecraft:goat_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成雪傀儡",
+			"id": "minecraft:snow_golem_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成恼鬼",
+			"id": "minecraft:vex_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_vex.png"
+		},
+		{
+			"name": "生成监守者",
+			"id": "minecraft:warden_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成村民",
+			"id": "minecraft:villager_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_villager.png"
+		},
+		{
+			"name": "生成流浪商人",
+			"id": "minecraft:wandering_trader_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_wanderingtrader.png"
+		},
+		{
+			"name": "生成僵尸村民",
+			"id": "minecraft:zombie_villager_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_zombievillager.png"
+		},
+		{
+			"name": "生成掠夺者",
+			"id": "minecraft:pillager_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_pillager.png"
+		},
+		{
+			"name": "生成铁傀儡",
+			"id": "minecraft:iron_golem_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "todo"
+		},
+		{
+			"name": "生成幻翼",
+			"id": "minecraft:phantom_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_phantom.png"
+		},
+		{
+			"name": "生成劫掠兽",
+			"id": "minecraft:ravager_spawn_egg",
+			"dv": 0,
+			"type": "刷怪蛋",
+			"path": "textures/items/egg_ravager.png"
+		}
+	]
+}

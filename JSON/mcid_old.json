@@ -1,0 +1,2524 @@
+{
+    "mcid": [
+        {
+            "name": "苹果",
+            "id": "minecraft:apple",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/apple.png",
+            "img": "./textures/items/apple.png"
+        },
+        {
+            "name": "金苹果",
+            "id": "minecraft:golden_apple",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/apple_golden.png",
+            "img": "./textures/items/apple_golden.png"
+        },
+        {
+            "name": "盔甲架",
+            "id": "minecraft:armor_stand",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/armor_stand.png",
+            "img": "./textures/items/armor_stand.png"
+        },
+        {
+            "name": "箭",
+            "id": "minecraft:arrow",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/arrow.png",
+            "img": "./textures/items/arrow.png"
+        },
+        {
+            "name": "竹子",
+            "id": "minecraft:bamboo",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bamboo.png",
+            "img": "./textures/items/bamboo.png"
+        },
+        {
+            "name": "旗帜图案",
+            "id": "minecraft:creeper_banner_pattern",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/banner_pattern.png",
+            "img": "./textures/items/banner_pattern.png"
+        },
+        {
+            "name": "黑床",
+            "id": "minecraft:bed",
+            "dv": 15,
+            "type": "items",
+            "path": "textures/items/bed_black.png",
+            "img": "./textures/items/bed_black.png"
+        },
+        {
+            "name": "蓝床",
+            "id": "minecraft:bed",
+            "dv": 11,
+            "type": "items",
+            "path": "textures/items/bed_blue.png",
+            "img": "./textures/items/bed_blue.png"
+        },
+        {
+            "name": "棕床",
+            "id": "minecraft:bed",
+            "dv": 12,
+            "type": "items",
+            "path": "textures/items/bed_brown.png",
+            "img": "./textures/items/bed_brown.png"
+        },
+        {
+            "name": "青床",
+            "id": "minecraft:bed",
+            "dv": 9,
+            "type": "items",
+            "path": "textures/items/bed_cyan.png",
+            "img": "./textures/items/bed_cyan.png"
+        },
+        {
+            "name": "灰床",
+            "id": "minecraft:bed",
+            "dv": 7,
+            "type": "items",
+            "path": "textures/items/bed_gray.png",
+            "img": "./textures/items/bed_gray.png"
+        },
+        {
+            "name": "绿床",
+            "id": "minecraft:bed",
+            "dv": 13,
+            "type": "items",
+            "path": "textures/items/bed_green.png",
+            "img": "./textures/items/bed_green.png"
+        },
+        {
+            "name": "淡蓝床",
+            "id": "minecraft:bed",
+            "dv": 3,
+            "type": "items",
+            "path": "textures/items/bed_light_blue.png",
+            "img": "./textures/items/bed_light_blue.png"
+        },
+        {
+            "name": "黄绿床",
+            "id": "minecraft:bed",
+            "dv": 5,
+            "type": "items",
+            "path": "textures/items/bed_lime.png",
+            "img": "./textures/items/bed_lime.png"
+        },
+        {
+            "name": "品红床",
+            "id": "minecraft:bed",
+            "dv": 2,
+            "type": "items",
+            "path": "textures/items/bed_magenta.png",
+            "img": "./textures/items/bed_magenta.png"
+        },
+        {
+            "name": "橙床",
+            "id": "minecraft:bed",
+            "dv": 1,
+            "type": "items",
+            "path": "textures/items/bed_orange.png",
+            "img": "./textures/items/bed_orange.png"
+        },
+        {
+            "name": "粉床",
+            "id": "minecraft:bed",
+            "dv": 6,
+            "type": "items",
+            "path": "textures/items/bed_pink.png",
+            "img": "./textures/items/bed_pink.png"
+        },
+        {
+            "name": "紫床",
+            "id": "minecraft:bed",
+            "dv": 10,
+            "type": "items",
+            "path": "textures/items/bed_purple.png",
+            "img": "./textures/items/bed_purple.png"
+        },
+        {
+            "name": "红床",
+            "id": "minecraft:bed",
+            "dv": 14,
+            "type": "items",
+            "path": "textures/items/bed_red.png",
+            "img": "./textures/items/bed_red.png"
+        },
+        {
+            "name": "淡灰床",
+            "id": "minecraft:bed",
+            "dv": 8,
+            "type": "items",
+            "path": "textures/items/bed_silver.png",
+            "img": "./textures/items/bed_silver.png"
+        },
+        {
+            "name": "白床",
+            "id": "minecraft:bed",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bed_white.png",
+            "img": "./textures/items/bed_white.png"
+        },
+        {
+            "name": "黄床",
+            "id": "minecraft:bed",
+            "dv": 4,
+            "type": "items",
+            "path": "textures/items/bed_yellow.png",
+            "img": "./textures/items/bed_yellow.png"
+        },
+        {
+            "name": "熟牛肉",
+            "id": "minecraft:cooked_beef",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/beef_cooked.png",
+            "img": "./textures/items/beef_cooked.png"
+        },
+        {
+            "name": "生牛肉",
+            "id": "minecraft:beef",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/beef_raw.png",
+            "img": "./textures/items/beef_raw.png"
+        },
+        {
+            "name": "甜菜根",
+            "id": "minecraft:beetroot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/beetroot.png",
+            "img": "./textures/items/beetroot.png"
+        },
+        {
+            "name": "甜菜根汤",
+            "id": "minecraft:beetroot_soup",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/beetroot_soup.png",
+            "img": "./textures/items/beetroot_soup.png"
+        },
+        {
+            "name": "烈焰粉",
+            "id": "minecraft:blaze_powder",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/blaze_powder.png",
+            "img": "./textures/items/blaze_powder.png"
+        },
+        {
+            "name": "烈焰棒",
+            "id": "minecraft:blaze_rod",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/blaze_rod.png",
+            "img": "./textures/items/blaze_rod.png"
+        },
+        {
+            "name": "金合欢木船",
+            "id": "minecraft:acacia_boat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/boat_acacia.png",
+            "img": "./textures/items/boat_acacia.png"
+        },
+        {
+            "name": "桦木船",
+            "id": "minecraft:birch_boat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/boat_birch.png",
+            "img": "./textures/items/boat_birch.png"
+        },
+        {
+            "name": "深色橡木船",
+            "id": "minecraft:dark_oak_boat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/boat_darkoak.png",
+            "img": "./textures/items/boat_darkoak.png"
+        },
+        {
+            "name": "丛林木船",
+            "id": "minecraft:jungle_boat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/boat_jungle.png",
+            "img": "./textures/items/boat_jungle.png"
+        },
+        {
+            "name": "橡木船",
+            "id": "minecraft:oak_boat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/boat_oak.png",
+            "img": "./textures/items/boat_oak.png"
+        },
+        {
+            "name": "云杉木船",
+            "id": "minecraft:spruce_boat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/boat_spruce.png",
+            "img": "./textures/items/boat_spruce.png"
+        },
+        {
+            "name": "骨头",
+            "id": "minecraft:bone",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bone.png",
+            "img": "./textures/items/bone.png"
+        },
+        {
+            "name": "附魔书",
+            "id": "minecraft:enchanted_book",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/book_enchanted.png",
+            "img": "./textures/items/book_enchanted.png"
+        },
+        {
+            "name": "书",
+            "id": "minecraft:book",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/book_normal.png",
+            "img": "./textures/items/book_normal.png"
+        },
+        {
+            "name": "书与笔",
+            "id": "minecraft:writable_book",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/book_writable.png",
+            "img": "./textures/items/book_writable.png"
+        },
+        {
+            "name": "成书",
+            "id": "minecraft:written_book",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/book_written.png",
+            "img": "./textures/items/book_written.png"
+        },
+        {
+            "name": "弓",
+            "id": "minecraft:bow",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bowl.png",
+            "img": "./textures/items/bowl.png"
+        },
+        {
+            "name": "碗",
+            "id": "minecraft:bowl",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bow_standby.png",
+            "img": "./textures/items/bow_standby.png"
+        },
+        {
+            "name": "面包",
+            "id": "minecraft:bread",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bread.png",
+            "img": "./textures/items/bread.png"
+        },
+        {
+            "name": "酿造台",
+            "id": "minecraft:brewing_stand",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/brewing_stand.png",
+            "img": "./textures/items/brewing_stand.png"
+        },
+        {
+            "name": "砖",
+            "id": "minecraft:brick",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/brick.png",
+            "img": "./textures/items/brick.png"
+        },
+        {
+            "name": "桶装鳕鱼",
+            "id": "minecraft:cod_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_cod.png",
+            "img": "./textures/items/bucket_cod.png"
+        },
+        {
+            "name": "桶",
+            "id": "minecraft:bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_empty.png",
+            "img": "./textures/items/bucket_empty.png"
+        },
+        {
+            "name": "熔岩桶",
+            "id": "minecraft:lava_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_lava.png",
+            "img": "./textures/items/bucket_lava.png"
+        },
+        {
+            "name": "牛奶",
+            "id": "minecraft:milk_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_milk.png",
+            "img": "./textures/items/bucket_milk.png"
+        },
+        {
+            "name": "桶装河豚",
+            "id": "minecraft:pufferfish_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_pufferfish.png",
+            "img": "./textures/items/bucket_pufferfish.png"
+        },
+        {
+            "name": "桶装鲑鱼",
+            "id": "minecraft:salmon_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_salmon.png",
+            "img": "./textures/items/bucket_salmon.png"
+        },
+        {
+            "name": "桶装热带鱼",
+            "id": "minecraft:tropical_fish_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_tropical.png",
+            "img": "./textures/items/bucket_tropical.png"
+        },
+        {
+            "name": "水桶",
+            "id": "minecraft:water_bucket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/bucket_water.png",
+            "img": "./textures/items/bucket_water.png"
+        },
+        {
+            "name": "蛋糕",
+            "id": "minecraft:cake",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/cake.png",
+            "img": "./textures/items/cake.png"
+        },
+        {
+            "name": "营火",
+            "id": "minecraft:campfire",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/campfire.png",
+            "img": "./textures/items/campfire.png"
+        },
+        {
+            "name": "胡萝卜",
+            "id": "minecraft:carrot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/carrot.png",
+            "img": "./textures/items/carrot.png"
+        },
+        {
+            "name": "金胡萝卜",
+            "id": "minecraft:golden_carrot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/carrot_golden.png",
+            "img": "./textures/items/carrot_golden.png"
+        },
+        {
+            "name": "胡萝卜钓竿",
+            "id": "minecraft:carrot_on_a_stick",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/carrot_on_a_stick.png",
+            "img": "./textures/items/carrot_on_a_stick.png"
+        },
+        {
+            "name": "炼药锅",
+            "id": "minecraft:cauldron",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/cauldron.png",
+            "img": "./textures/items/cauldron.png"
+        },
+        {
+            "name": "锁链靴子",
+            "id": "minecraft:chainmail_boots",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chainmail_boots.png",
+            "img": "./textures/items/chainmail_boots.png"
+        },
+        {
+            "name": "锁链胸甲",
+            "id": "minecraft:chainmail_chestplate",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chainmail_chestplate.png",
+            "img": "./textures/items/chainmail_chestplate.png"
+        },
+        {
+            "name": "锁链头盔",
+            "id": "minecraft:chainmail_helmet",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chainmail_helmet.png",
+            "img": "./textures/items/chainmail_helmet.png"
+        },
+        {
+            "name": "锁链护腿",
+            "id": "minecraft:chainmail_leggings",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chainmail_leggings.png",
+            "img": "./textures/items/chainmail_leggings.png"
+        },
+        {
+            "name": "木炭",
+            "id": "minecraft:charcoal",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/charcoal.png",
+            "img": "./textures/items/charcoal.png"
+        },
+        {
+            "name": "熟鸡肉",
+            "id": "minecraft:cooked_chicken",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chicken_cooked.png",
+            "img": "./textures/items/chicken_cooked.png"
+        },
+        {
+            "name": "生鸡肉",
+            "id": "minecraft:chicken",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chicken_raw.png",
+            "img": "./textures/items/chicken_raw.png"
+        },
+        {
+            "name": "紫颂果",
+            "id": "minecraft:chorus_fruit",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chorus_fruit.png",
+            "img": "./textures/items/chorus_fruit.png"
+        },
+        {
+            "name": "爆裂紫颂果",
+            "id": "minecraft:popped_chorus_fruit",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/chorus_fruit_popped.png",
+            "img": "./textures/items/chorus_fruit_popped.png"
+        },
+        {
+            "name": "粘土",
+            "id": "minecraft:clay_ball",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/clay_ball.png",
+            "img": "./textures/items/clay_ball.png"
+        },
+        {
+            "name": "钟",
+            "id": "minecraft:clock",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/clock_item.png",
+            "img": "./textures/items/clock_item.png"
+        },
+        {
+            "name": "煤炭",
+            "id": "minecraft:coal",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/coal.png",
+            "img": "./textures/items/coal.png"
+        },
+        {
+            "name": "红石比较器",
+            "id": "minecraft:comparator",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/comparator.png",
+            "img": "./textures/items/comparator.png"
+        },
+        {
+            "name": "指南针",
+            "id": "minecraft:compass",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/compass_item.png",
+            "img": "./textures/items/compass_item.png"
+        },
+        {
+            "name": "曲奇",
+            "id": "minecraft:cookie",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/cookie.png",
+            "img": "./textures/items/cookie.png"
+        },
+        {
+            "name": "弩",
+            "id": "minecraft:crossbow",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/crossbow_standby.png",
+            "img": "./textures/items/crossbow_standby.png"
+        },
+        {
+            "name": "钻石",
+            "id": "minecraft:diamond",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond.png",
+            "img": "./textures/items/diamond.png"
+        },
+        {
+            "name": "钻石斧",
+            "id": "minecraft:diamond_axe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_axe.png",
+            "img": "./textures/items/diamond_axe.png"
+        },
+        {
+            "name": "钻石靴子",
+            "id": "minecraft:diamond_boots",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_boots.png",
+            "img": "./textures/items/diamond_boots.png"
+        },
+        {
+            "name": "钻石胸甲",
+            "id": "minecraft:diamond_chestplate",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_chestplate.png",
+            "img": "./textures/items/diamond_chestplate.png"
+        },
+        {
+            "name": "钻石头盔",
+            "id": "minecraft:diamond_helmet",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_helmet.png",
+            "img": "./textures/items/diamond_helmet.png"
+        },
+        {
+            "name": "钻石锄",
+            "id": "minecraft:diamond_hoe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_hoe.png",
+            "img": "./textures/items/diamond_hoe.png"
+        },
+        {
+            "name": "钻石马铠",
+            "id": "minecraft:diamond_horse_armor",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_horse_armor.png",
+            "img": "./textures/items/diamond_horse_armor.png"
+        },
+        {
+            "name": "钻石护腿",
+            "id": "minecraft:diamond_leggings",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_leggings.png",
+            "img": "./textures/items/diamond_leggings.png"
+        },
+        {
+            "name": "钻石镐",
+            "id": "minecraft:diamond_pickaxe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_pickaxe.png",
+            "img": "./textures/items/diamond_pickaxe.png"
+        },
+        {
+            "name": "钻石楸",
+            "id": "minecraft:diamond_shovel",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_shovel.png",
+            "img": "./textures/items/diamond_shovel.png"
+        },
+        {
+            "name": "钻石剑",
+            "id": "minecraft:diamond_sword",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/diamond_sword.png",
+            "img": "./textures/items/diamond_sword.png"
+        },
+        {
+            "name": "金合欢木门",
+            "id": "minecraft:acacia_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_acacia.png",
+            "img": "./textures/items/door_acacia.png"
+        },
+        {
+            "name": "桦木门",
+            "id": "minecraft:birch_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_birch.png",
+            "img": "./textures/items/door_birch.png"
+        },
+        {
+            "name": "深色橡木门",
+            "id": "minecraft:dark_oak_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_dark_oak.png",
+            "img": "./textures/items/door_dark_oak.png"
+        },
+        {
+            "name": "铁门",
+            "id": "minecraft:iron_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_iron.png",
+            "img": "./textures/items/door_iron.png"
+        },
+        {
+            "name": "丛林木门",
+            "id": "minecraft:jungle_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_jungle.png",
+            "img": "./textures/items/door_jungle.png"
+        },
+        {
+            "name": "云杉木门",
+            "id": "minecraft:spruce_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_spruce.png",
+            "img": "./textures/items/door_spruce.png"
+        },
+        {
+            "name": "橡木门",
+            "id": "minecraft:wooden_door",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/door_wood.png",
+            "img": "./textures/items/door_wood.png"
+        },
+        {
+            "name": "龙息",
+            "id": "minecraft:dragon_breath",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dragons_breath.png",
+            "img": "./textures/items/dragons_breath.png"
+        },
+        {
+            "name": "干海带",
+            "id": "minecraft:dried_kelp",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dried_kelp.png",
+            "img": "./textures/items/dried_kelp.png"
+        },
+        {
+            "name": "墨囊",
+            "id": "minecraft:ink_sac",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_black.png",
+            "img": "./textures/items/dye_powder_black.png"
+        },
+        {
+            "name": "黑色染料",
+            "id": "minecraft:black_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_black_new.png",
+            "img": "./textures/items/dye_powder_black_new.png"
+        },
+        {
+            "name": "青金石",
+            "id": "minecraft:lapis_lazuli",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_blue.png",
+            "img": "./textures/items/dye_powder_blue.png"
+        },
+        {
+            "name": "蓝色染料",
+            "id": "minecraft:blue_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_blue_new.png",
+            "img": "./textures/items/dye_powder_blue_new.png"
+        },
+        {
+            "name": "可可豆",
+            "id": "minecraft:cocoa_beans",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_brown.png",
+            "img": "./textures/items/dye_powder_brown.png"
+        },
+        {
+            "name": "棕色染料",
+            "id": "minecraft:brown_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_brown_new.png",
+            "img": "./textures/items/dye_powder_brown_new.png"
+        },
+        {
+            "name": "青色染料",
+            "id": "minecraft:cyan_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_cyan.png",
+            "img": "./textures/items/dye_powder_cyan.png"
+        },
+        {
+            "name": "灰色染料",
+            "id": "minecraft:gray_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_gray.png",
+            "img": "./textures/items/dye_powder_gray.png"
+        },
+        {
+            "name": "绿色染料",
+            "id": "minecraft:green_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_green.png",
+            "img": "./textures/items/dye_powder_green.png"
+        },
+        {
+            "name": "淡蓝色染料",
+            "id": "minecraft:light_blue_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_light_blue.png",
+            "img": "./textures/items/dye_powder_light_blue.png"
+        },
+        {
+            "name": "黄绿色染料",
+            "id": "minecraft:lime_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_lime.png",
+            "img": "./textures/items/dye_powder_lime.png"
+        },
+        {
+            "name": "品红色染料",
+            "id": "minecraft:magenta_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_magenta.png",
+            "img": "./textures/items/dye_powder_magenta.png"
+        },
+        {
+            "name": "橙色染料",
+            "id": "minecraft:orange_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_orange.png",
+            "img": "./textures/items/dye_powder_orange.png"
+        },
+        {
+            "name": "粉红色染料",
+            "id": "minecraft:pink_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_pink.png",
+            "img": "./textures/items/dye_powder_pink.png"
+        },
+        {
+            "name": "紫色染料",
+            "id": "minecraft:purple_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_purple.png",
+            "img": "./textures/items/dye_powder_purple.png"
+        },
+        {
+            "name": "红色染料",
+            "id": "minecraft:red_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_red.png",
+            "img": "./textures/items/dye_powder_red.png"
+        },
+        {
+            "name": "淡灰色染料",
+            "id": "minecraft:light_gray_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_silver.png",
+            "img": "./textures/items/dye_powder_silver.png"
+        },
+        {
+            "name": "骨粉",
+            "id": "minecraft:bone_meal",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_white.png",
+            "img": "./textures/items/dye_powder_white.png"
+        },
+        {
+            "name": "白色染料",
+            "id": "minecraft:white_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_white_new.png",
+            "img": "./textures/items/dye_powder_white_new.png"
+        },
+        {
+            "name": "黄色染料",
+            "id": "minecraft:yellow_dye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/dye_powder_yellow.png",
+            "img": "./textures/items/dye_powder_yellow.png"
+        },
+        {
+            "name": "鸡蛋",
+            "id": "minecraft:egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg.png",
+            "img": "./textures/items/egg.png"
+        },
+        {
+            "name": "生成蝙蝠",
+            "id": "minecraft:bat_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_bat.png",
+            "img": "./textures/items/egg_bat.png"
+        },
+        {
+            "name": "生成烈焰人",
+            "id": "minecraft:blaze_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_blaze.png",
+            "img": "./textures/items/egg_blaze.png"
+        },
+        {
+            "name": "生成猫",
+            "id": "minecraft:cat_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_cat.png",
+            "img": "./textures/items/egg_cat.png"
+        },
+        {
+            "name": "生成洞穴蜘蛛",
+            "id": "minecraft:cave_spider_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_cave_spider.png",
+            "img": "./textures/items/egg_cave_spider.png"
+        },
+        {
+            "name": "生成鸡",
+            "id": "minecraft:chicken_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_chicken.png",
+            "img": "./textures/items/egg_chicken.png"
+        },
+        {
+            "name": "生成热带鱼",
+            "id": "minecraft:tropical_fish_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_clownfish.png",
+            "img": "./textures/items/egg_clownfish.png"
+        },
+        {
+            "name": "生成鳕鱼",
+            "id": "minecraft:cod_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_cod.png",
+            "img": "./textures/items/egg_cod.png"
+        },
+        {
+            "name": "生成牛",
+            "id": "minecraft:cow_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_cow.png",
+            "img": "./textures/items/egg_cow.png"
+        },
+        {
+            "name": "生成苦力怕",
+            "id": "minecraft:creeper_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_creeper.png",
+            "img": "./textures/items/egg_creeper.png"
+        },
+        {
+            "name": "生成海豚",
+            "id": "minecraft:dolphin_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_dolphin.png",
+            "img": "./textures/items/egg_dolphin.png"
+        },
+        {
+            "name": "生成驴",
+            "id": "minecraft:donkey_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_donkey.png",
+            "img": "./textures/items/egg_donkey.png"
+        },
+        {
+            "name": "生成溺尸",
+            "id": "minecraft:drowned_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_drowned.png",
+            "img": "./textures/items/egg_drowned.png"
+        },
+        {
+            "name": "生成远古守卫者",
+            "id": "minecraft:elder_guardian_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_elderguardian.png",
+            "img": "./textures/items/egg_elderguardian.png"
+        },
+        {
+            "name": "生成末影人",
+            "id": "minecraft:enderman_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_enderman.png",
+            "img": "./textures/items/egg_enderman.png"
+        },
+        {
+            "name": "生成末影螨",
+            "id": "minecraft:endermite_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_endermite.png",
+            "img": "./textures/items/egg_endermite.png"
+        },
+        {
+            "name": "生成唤魔者",
+            "id": "minecraft:evoker_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_evoker.png",
+            "img": "./textures/items/egg_evoker.png"
+        },
+        {
+            "name": "生成鳕鱼",
+            "id": "minecraft:cod_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_fish.png",
+            "img": "./textures/items/egg_fish.png"
+        },
+        {
+            "name": "生成狐狸",
+            "id": "minecraft:fox_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_fox.png",
+            "img": "./textures/items/egg_fox.png"
+        },
+        {
+            "name": "生成恶魂",
+            "id": "minecraft:ghast_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_ghast.png",
+            "img": "./textures/items/egg_ghast.png"
+        },
+        {
+            "name": "生成守卫者",
+            "id": "minecraft:guardian_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_guardian.png",
+            "img": "./textures/items/egg_guardian.png"
+        },
+        {
+            "name": "生成马",
+            "id": "minecraft:horse_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_horse.png",
+            "img": "./textures/items/egg_horse.png"
+        },
+        {
+            "name": "生成尸壳",
+            "id": "minecraft:husk_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_husk.png",
+            "img": "./textures/items/egg_husk.png"
+        },
+        {
+            "name": "生成岩浆怪",
+            "id": "minecraft:magma_cube_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_lava_slime.png",
+            "img": "./textures/items/egg_lava_slime.png"
+        },
+        {
+            "name": "生成羊驼",
+            "id": "minecraft:llama_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_llama.png",
+            "img": "./textures/items/egg_llama.png"
+        },
+        {
+            "name": "生成骡子",
+            "id": "minecraft:mule_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_mule.png",
+            "img": "./textures/items/egg_mule.png"
+        },
+        {
+            "name": "生成哞菇",
+            "id": "minecraft:mooshroom_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_mushroomcow.png",
+            "img": "./textures/items/egg_mushroomcow.png"
+        },
+        {
+            "name": "生成豹猫",
+            "id": "minecraft:ocelot_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_ocelot.png",
+            "img": "./textures/items/egg_ocelot.png"
+        },
+        {
+            "name": "生成熊猫",
+            "id": "minecraft:panda_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_panda.png",
+            "img": "./textures/items/egg_panda.png"
+        },
+        {
+            "name": "生成鹦鹉",
+            "id": "minecraft:parrot_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_parrot.png",
+            "img": "./textures/items/egg_parrot.png"
+        },
+        {
+            "name": "生成幻翼",
+            "id": "minecraft:phantom_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_phantom.png",
+            "img": "./textures/items/egg_phantom.png"
+        },
+        {
+            "name": "生成猪",
+            "id": "minecraft:pig_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_pig.png",
+            "img": "./textures/items/egg_pig.png"
+        },
+        {
+            "name": "生成僵尸猪灵",
+            "id": "minecraft:zombie_pigman_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_pigzombie.png",
+            "img": "./textures/items/egg_pigzombie.png"
+        },
+        {
+            "name": "生成掠夺者",
+            "id": "minecraft:pillager_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_pillager.png",
+            "img": "./textures/items/egg_pillager.png"
+        },
+        {
+            "name": "生成北极熊",
+            "id": "minecraft:polar_bear_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_polarbear.png",
+            "img": "./textures/items/egg_polarbear.png"
+        },
+        {
+            "name": "生成河豚",
+            "id": "minecraft:pufferfish_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_pufferfish.png",
+            "img": "./textures/items/egg_pufferfish.png"
+        },
+        {
+            "name": "生成兔子",
+            "id": "minecraft:rabbit_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_rabbit.png",
+            "img": "./textures/items/egg_rabbit.png"
+        },
+        {
+            "name": "生成劫掠兽",
+            "id": "minecraft:ravager_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_ravager.png",
+            "img": "./textures/items/egg_ravager.png"
+        },
+        {
+            "name": "生成鲑鱼",
+            "id": "minecraft:salmon_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_salmon.png",
+            "img": "./textures/items/egg_salmon.png"
+        },
+        {
+            "name": "生成羊",
+            "id": "minecraft:sheep_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_sheep.png",
+            "img": "./textures/items/egg_sheep.png"
+        },
+        {
+            "name": "生成潜影贝",
+            "id": "minecraft:shulker_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_shulker.png",
+            "img": "./textures/items/egg_shulker.png"
+        },
+        {
+            "name": "生成蠹虫",
+            "id": "minecraft:silverfish_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_silverfish.png",
+            "img": "./textures/items/egg_silverfish.png"
+        },
+        {
+            "name": "生成骷髅",
+            "id": "minecraft:skeleton_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_skeleton.png",
+            "img": "./textures/items/egg_skeleton.png"
+        },
+        {
+            "name": "生成骷髅马",
+            "id": "minecraft:skeleton_horse_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_skeletonhorse.png",
+            "img": "./textures/items/egg_skeletonhorse.png"
+        },
+        {
+            "name": "生成史莱姆",
+            "id": "minecraft:slime_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_slime.png",
+            "img": "./textures/items/egg_slime.png"
+        },
+        {
+            "name": "生成蜘蛛",
+            "id": "minecraft:spider_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_spider.png",
+            "img": "./textures/items/egg_spider.png"
+        },
+        {
+            "name": "生成鱿鱼",
+            "id": "minecraft:squid_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_squid.png",
+            "img": "./textures/items/egg_squid.png"
+        },
+        {
+            "name": "生成流浪者",
+            "id": "minecraft:stray_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_stray.png",
+            "img": "./textures/items/egg_stray.png"
+        },
+        {
+            "name": "生成海龟",
+            "id": "minecraft:turtle_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_turtle.png",
+            "img": "./textures/items/egg_turtle.png"
+        },
+        {
+            "name": "生成恼鬼",
+            "id": "minecraft:vex_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_vex.png",
+            "img": "./textures/items/egg_vex.png"
+        },
+        {
+            "name": "生成村民",
+            "id": "minecraft:villager_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_villager.png",
+            "img": "./textures/items/egg_villager.png"
+        },
+        {
+            "name": "生成卫道士",
+            "id": "minecraft:vindicator_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_vindicator.png",
+            "img": "./textures/items/egg_vindicator.png"
+        },
+        {
+            "name": "生成流浪商人",
+            "id": "minecraft:wandering_trader_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_wanderingtrader.png",
+            "img": "./textures/items/egg_wanderingtrader.png"
+        },
+        {
+            "name": "生成女巫",
+            "id": "minecraft:witch_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_witch.png",
+            "img": "./textures/items/egg_witch.png"
+        },
+        {
+            "name": "生成狼",
+            "id": "minecraft:wolf_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_wolf.png",
+            "img": "./textures/items/egg_wolf.png"
+        },
+        {
+            "name": "生成僵尸",
+            "id": "minecraft:zombie_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_zombie.png",
+            "img": "./textures/items/egg_zombie.png"
+        },
+        {
+            "name": "生成僵尸马",
+            "id": "minecraft:zombie_horse_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_zombiehorse.png",
+            "img": "./textures/items/egg_zombiehorse.png"
+        },
+        {
+            "name": "生成僵尸村民",
+            "id": "minecraft:zombie_villager_spawn_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/egg_zombievillager.png",
+            "img": "./textures/items/egg_zombievillager.png"
+        },
+        {
+            "name": "鞘翅",
+            "id": "minecraft:elytra",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/elytra.png",
+            "img": "./textures/items/elytra.png"
+        },
+        {
+            "name": "绿宝石",
+            "id": "minecraft:emerald",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/emerald.png",
+            "img": "./textures/items/emerald.png"
+        },
+        {
+            "name": "末地水晶",
+            "id": "minecraft:end_crystal",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/end_crystal.png",
+            "img": "./textures/items/end_crystal.png"
+        },
+        {
+            "name": "末影之眼",
+            "id": "minecraft:ender_eye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/ender_eye.png",
+            "img": "./textures/items/ender_eye.png"
+        },
+        {
+            "name": "末影珍珠",
+            "id": "minecraft:ender_pearl",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/ender_pearl.png",
+            "img": "./textures/items/ender_pearl.png"
+        },
+        {
+            "name": "附魔之瓶",
+            "id": "minecraft:experience_bottle",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/experience_bottle.png",
+            "img": "./textures/items/experience_bottle.png"
+        },
+        {
+            "name": "羽毛",
+            "id": "minecraft:feather",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/feather.png",
+            "img": "./textures/items/feather.png"
+        },
+        {
+            "name": "火焰弹",
+            "id": "minecraft:fire_charge",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fireball.png",
+            "img": "./textures/items/fireball.png"
+        },
+        {
+            "name": "烟火火箭",
+            "id": "minecraft:firework_rocket",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fireworks.png",
+            "img": "./textures/items/fireworks.png"
+        },
+        {
+            "name": "钓鱼竿",
+            "id": "minecraft:fishing_rod",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fishing_rod_uncast.png",
+            "img": "./textures/items/fishing_rod_uncast.png"
+        },
+        {
+            "name": "热带鱼",
+            "id": "minecraft:tropical_fish",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fish_clownfish_raw.png",
+            "img": "./textures/items/fish_clownfish_raw.png"
+        },
+        {
+            "name": "熟鳕鱼",
+            "id": "minecraft:cooked_cod",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fish_cooked.png",
+            "img": "./textures/items/fish_cooked.png"
+        },
+        {
+            "name": "河豚",
+            "id": "minecraft:pufferfish",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fish_pufferfish_raw.png",
+            "img": "./textures/items/fish_pufferfish_raw.png"
+        },
+        {
+            "name": "生鳕鱼",
+            "id": "minecraft:cod",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fish_raw.png",
+            "img": "./textures/items/fish_raw.png"
+        },
+        {
+            "name": "熟鲑鱼",
+            "id": "minecraft:cooked_salmon",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fish_salmon_cooked.png",
+            "img": "./textures/items/fish_salmon_cooked.png"
+        },
+        {
+            "name": "生鲑鱼",
+            "id": "minecraft:salmon",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/fish_salmon_raw.png",
+            "img": "./textures/items/fish_salmon_raw.png"
+        },
+        {
+            "name": "燧石",
+            "id": "minecraft:flint",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/flint.png",
+            "img": "./textures/items/flint.png"
+        },
+        {
+            "name": "打火石",
+            "id": "minecraft:flint_and_steel",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/flint_and_steel.png",
+            "img": "./textures/items/flint_and_steel.png"
+        },
+        {
+            "name": "花盆",
+            "id": "minecraft:flower_pot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/flower_pot.png",
+            "img": "./textures/items/flower_pot.png"
+        },
+        {
+            "name": "恶魂之泪",
+            "id": "minecraft:ghast_tear",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/ghast_tear.png",
+            "img": "./textures/items/ghast_tear.png"
+        },
+        {
+            "name": "萤石粉",
+            "id": "minecraft:glowstone_dust",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/glowstone_dust.png",
+            "img": "./textures/items/glowstone_dust.png"
+        },
+        {
+            "name": "金斧",
+            "id": "minecraft:golden_axe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_axe.png",
+            "img": "./textures/items/gold_axe.png"
+        },
+        {
+            "name": "金靴子",
+            "id": "minecraft:golden_boots",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_boots.png",
+            "img": "./textures/items/gold_boots.png"
+        },
+        {
+            "name": "金胸甲",
+            "id": "minecraft:golden_chestplate",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_chestplate.png",
+            "img": "./textures/items/gold_chestplate.png"
+        },
+        {
+            "name": "金头盔",
+            "id": "minecraft:golden_helmet",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_helmet.png",
+            "img": "./textures/items/gold_helmet.png"
+        },
+        {
+            "name": "金锄",
+            "id": "minecraft:golden_hoe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_hoe.png",
+            "img": "./textures/items/gold_hoe.png"
+        },
+        {
+            "name": "黄金马铠",
+            "id": "minecraft:golden_horse_armor",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_horse_armor.png",
+            "img": "./textures/items/gold_horse_armor.png"
+        },
+        {
+            "name": "金锭",
+            "id": "minecraft:gold_ingot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_ingot.png",
+            "img": "./textures/items/gold_ingot.png"
+        },
+        {
+            "name": "金护腿",
+            "id": "minecraft:golden_leggings",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_leggings.png",
+            "img": "./textures/items/gold_leggings.png"
+        },
+        {
+            "name": "金粒",
+            "id": "minecraft:gold_nugget",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_nugget.png",
+            "img": "./textures/items/gold_nugget.png"
+        },
+        {
+            "name": "金镐",
+            "id": "minecraft:golden_pickaxe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_pickaxe.png",
+            "img": "./textures/items/gold_pickaxe.png"
+        },
+        {
+            "name": "金锹",
+            "id": "minecraft:golden_shovel",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_shovel.png",
+            "img": "./textures/items/gold_shovel.png"
+        },
+        {
+            "name": "金剑",
+            "id": "minecraft:golden_sword",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gold_sword.png",
+            "img": "./textures/items/gold_sword.png"
+        },
+        {
+            "name": "火药",
+            "id": "minecraft:gunpowder",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/gunpowder.png",
+            "img": "./textures/items/gunpowder.png"
+        },
+        {
+            "name": "海洋之心",
+            "id": "minecraft:heart_of_the_sea",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/heartofthesea_closed.png",
+            "img": "./textures/items/heartofthesea_closed.png"
+        },
+        {
+            "name": "漏斗",
+            "id": "minecraft:hopper",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/hopper.png",
+            "img": "./textures/items/hopper.png"
+        },
+        {
+            "name": "铁斧",
+            "id": "minecraft:iron_axe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_axe.png",
+            "img": "./textures/items/iron_axe.png"
+        },
+        {
+            "name": "铁靴子",
+            "id": "minecraft:iron_boots",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_boots.png",
+            "img": "./textures/items/iron_boots.png"
+        },
+        {
+            "name": "铁胸甲",
+            "id": "minecraft:iron_chestplate",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_chestplate.png",
+            "img": "./textures/items/iron_chestplate.png"
+        },
+        {
+            "name": "铁头盔",
+            "id": "minecraft:iron_helmet",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_helmet.png",
+            "img": "./textures/items/iron_helmet.png"
+        },
+        {
+            "name": "铁锄",
+            "id": "minecraft:iron_hoe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_hoe.png",
+            "img": "./textures/items/iron_hoe.png"
+        },
+        {
+            "name": "铁马铠",
+            "id": "minecraft:iron_horse_armor",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_horse_armor.png",
+            "img": "./textures/items/iron_horse_armor.png"
+        },
+        {
+            "name": "铁锭",
+            "id": "minecraft:iron_ingot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_ingot.png",
+            "img": "./textures/items/iron_ingot.png"
+        },
+        {
+            "name": "铁护腿",
+            "id": "minecraft:iron_leggings",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_leggings.png",
+            "img": "./textures/items/iron_leggings.png"
+        },
+        {
+            "name": "铁粒",
+            "id": "minecraft:iron_nugget",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_nugget.png",
+            "img": "./textures/items/iron_nugget.png"
+        },
+        {
+            "name": "铁镐",
+            "id": "minecraft:iron_pickaxe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_pickaxe.png",
+            "img": "./textures/items/iron_pickaxe.png"
+        },
+        {
+            "name": "铁锹",
+            "id": "minecraft:iron_shovel",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_shovel.png",
+            "img": "./textures/items/iron_shovel.png"
+        },
+        {
+            "name": "铁剑",
+            "id": "minecraft:iron_sword",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/iron_sword.png",
+            "img": "./textures/items/iron_sword.png"
+        },
+        {
+            "name": "物品展示框",
+            "id": "minecraft:frame",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/item_frame.png",
+            "img": "./textures/items/item_frame.png"
+        },
+        {
+            "name": "海带",
+            "id": "minecraft:kelp",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/kelp.png",
+            "img": "./textures/items/kelp.png"
+        },
+        {
+            "name": "灯",
+            "id": "minecraft:lantern",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/lantern.png",
+            "img": "./textures/items/lantern.png"
+        },
+        {
+            "name": "拴绳",
+            "id": "minecraft:lead",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/lead.png",
+            "img": "./textures/items/lead.png"
+        },
+        {
+            "name": "皮革",
+            "id": "minecraft:leather",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/leather.png",
+            "img": "./textures/items/leather.png"
+        },
+        {
+            "name": "拉杆",
+            "id": "minecraft:lever",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/lever.png",
+            "img": "./textures/items/lever.png"
+        },
+        {
+            "name": "岩浆膏",
+            "id": "minecraft:magma_cream",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/magma_cream.png",
+            "img": "./textures/items/magma_cream.png"
+        },
+        {
+            "name": "空白地图",
+            "id": "minecraft:empty_map",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/map_empty.png",
+            "img": "./textures/items/map_empty.png"
+        },
+        {
+            "name": "空的定位器地图",
+            "id": "minecraft:empty_map",
+            "dv": 2,
+            "type": "items",
+            "path": "textures/items/map_empty.png",
+            "img": "./textures/items/map_empty.png"
+        },
+        {
+            "name": "西瓜片",
+            "id": "minecraft:melon_slice",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/melon.png",
+            "img": "./textures/items/melon.png"
+        },
+        {
+            "name": "闪烁的西瓜片",
+            "id": "minecraft:glistering_melon_slice",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/melon_speckled.png",
+            "img": "./textures/items/melon_speckled.png"
+        },
+        {
+            "name": "运输矿车",
+            "id": "minecraft:chest_minecart",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/minecart_chest.png",
+            "img": "./textures/items/minecart_chest.png"
+        },
+        {
+            "name": "漏斗矿车",
+            "id": "minecraft:hopper_minecart",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/minecart_hopper.png",
+            "img": "./textures/items/minecart_hopper.png"
+        },
+        {
+            "name": "矿车",
+            "id": "minecraft:minecart",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/minecart_normal.png",
+            "img": "./textures/items/minecart_normal.png"
+        },
+        {
+            "name": "TNT 矿车",
+            "id": "minecraft:tnt_minecart",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/minecart_tnt.png",
+            "img": "./textures/items/minecart_tnt.png"
+        },
+        {
+            "name": "蘑菇煲",
+            "id": "minecraft:mushroom_stew",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/mushroom_stew.png",
+            "img": "./textures/items/mushroom_stew.png"
+        },
+        {
+            "name": "熟羊肉",
+            "id": "minecraft:cooked_mutton",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/mutton_cooked.png",
+            "img": "./textures/items/mutton_cooked.png"
+        },
+        {
+            "name": "生羊肉",
+            "id": "minecraft:mutton",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/mutton_raw.png",
+            "img": "./textures/items/mutton_raw.png"
+        },
+        {
+            "name": "命名牌",
+            "id": "minecraft:name_tag",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/name_tag.png",
+            "img": "./textures/items/name_tag.png"
+        },
+        {
+            "name": "鹦鹉螺壳",
+            "id": "minecraft:nautilus_shell",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/nautilus.png",
+            "img": "./textures/items/nautilus.png"
+        },
+        {
+            "name": "下届之星",
+            "id": "minecraft:nether_star",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/netherbrick.png",
+            "img": "./textures/items/netherbrick.png"
+        },
+        {
+            "name": "下届疣",
+            "id": "minecraft:nether_wart",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/nether_wart.png",
+            "img": "./textures/items/nether_wart.png"
+        },
+        {
+            "name": "下届砖",
+            "id": "minecraft:netherbrick",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/netherbrick.png",
+            "img": "./textures/items/netherbrick.png"
+        },
+        {
+            "name": "画",
+            "id": "minecraft:painting",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/painting.png",
+            "img": "./textures/items/painting.png"
+        },
+        {
+            "name": "纸",
+            "id": "minecraft:paper",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/paper.png",
+            "img": "./textures/items/paper.png"
+        },
+        {
+            "name": "幻翼膜",
+            "id": "minecraft:phantom_membrane",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/phantom_membrane.png",
+            "img": "./textures/items/phantom_membrane.png"
+        },
+        {
+            "name": "熟猪排",
+            "id": "minecraft:cooked_porkchop",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/porkchop_cooked.png",
+            "img": "./textures/items/porkchop_cooked.png"
+        },
+        {
+            "name": "生猪排",
+            "id": "minecraft:porkchop",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/porkchop_raw.png",
+            "img": "./textures/items/porkchop_raw.png"
+        },
+        {
+            "name": "马铃薯",
+            "id": "minecraft:potato",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/potato.png",
+            "img": "./textures/items/potato.png"
+        },
+        {
+            "name": "烤马铃薯",
+            "id": "minecraft:baked_potato",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/potato_baked.png",
+            "img": "./textures/items/potato_baked.png"
+        },
+        {
+            "name": "毒马铃薯",
+            "id": "minecraft:poisonous_potato",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/potato_poisonous.png",
+            "img": "./textures/items/potato_poisonous.png"
+        },
+        {
+            "name": "海晶砂粒",
+            "id": "minecraft:prismarine_crystals",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/prismarine_crystals.png",
+            "img": "./textures/items/prismarine_crystals.png"
+        },
+        {
+            "name": "海晶碎片",
+            "id": "minecraft:prismarine_shard",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/prismarine_shard.png",
+            "img": "./textures/items/prismarine_shard.png"
+        },
+        {
+            "name": "南瓜派",
+            "id": "minecraft:pumpkin_pie",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/pumpkin_pie.png",
+            "img": "./textures/items/pumpkin_pie.png"
+        },
+        {
+            "name": "下届石英",
+            "id": "minecraft:quartz",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/quartz.png",
+            "img": "./textures/items/quartz.png"
+        },
+        {
+            "name": "熟兔肉",
+            "id": "minecraft:cooked_rabbit",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/rabbit_cooked.png",
+            "img": "./textures/items/rabbit_cooked.png"
+        },
+        {
+            "name": "兔子脚",
+            "id": "minecraft:rabbit_foot",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/rabbit_foot.png",
+            "img": "./textures/items/rabbit_foot.png"
+        },
+        {
+            "name": "兔子皮",
+            "id": "minecraft:rabbit_hide",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/rabbit_hide.png",
+            "img": "./textures/items/rabbit_hide.png"
+        },
+        {
+            "name": "生兔肉",
+            "id": "minecraft:rabbit",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/rabbit_raw.png",
+            "img": "./textures/items/rabbit_raw.png"
+        },
+        {
+            "name": "兔肉煲",
+            "id": "minecraft:rabbit_stew",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/rabbit_stew.png",
+            "img": "./textures/items/rabbit_stew.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_11",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_11.png",
+            "img": "./textures/items/record_11.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_13",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_13.png",
+            "img": "./textures/items/record_13.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_blocks",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_blocks.png",
+            "img": "./textures/items/record_blocks.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_cat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_cat.png",
+            "img": "./textures/items/record_cat.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_chirp",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_chirp.png",
+            "img": "./textures/items/record_chirp.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_far",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_far.png",
+            "img": "./textures/items/record_far.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_mall",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_mall.png",
+            "img": "./textures/items/record_mall.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_mellohi",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_mellohi.png",
+            "img": "./textures/items/record_mellohi.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_stal",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_stal.png",
+            "img": "./textures/items/record_stal.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_strad",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_strad.png",
+            "img": "./textures/items/record_strad.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_wait",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_wait.png",
+            "img": "./textures/items/record_wait.png"
+        },
+        {
+            "name": "音乐唱片",
+            "id": "minecraft:music_disc_ward",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/record_ward.png",
+            "img": "./textures/items/record_ward.png"
+        },
+        {
+            "name": "红石粉",
+            "id": "minecraft:redstone",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/redstone_dust.png",
+            "img": "./textures/items/redstone_dust.png"
+        },
+        {
+            "name": "甘蔗",
+            "id": "minecraft:sugar_cane",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/reeds.png",
+            "img": "./textures/items/reeds.png"
+        },
+        {
+            "name": "红石中继器",
+            "id": "minecraft:repeater",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/repeater.png",
+            "img": "./textures/items/repeater.png"
+        },
+        {
+            "name": "腐肉",
+            "id": "minecraft:rotten_flesh",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/rotten_flesh.png",
+            "img": "./textures/items/rotten_flesh.png"
+        },
+        {
+            "name": "鞍",
+            "id": "minecraft:saddle",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/saddle.png",
+            "img": "./textures/items/saddle.png"
+        },
+        {
+            "name": "海泡菜",
+            "id": "minecraft:sea_pickle",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sea_pickle.png",
+            "img": "./textures/items/sea_pickle.png"
+        },
+        {
+            "name": "甜菜根种子",
+            "id": "minecraft:beetroot_seeds",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/seeds_beetroot.png",
+            "img": "./textures/items/seeds_beetroot.png"
+        },
+        {
+            "name": "西瓜种子",
+            "id": "minecraft:melon_seeds",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/seeds_melon.png",
+            "img": "./textures/items/seeds_melon.png"
+        },
+        {
+            "name": "南瓜种子",
+            "id": "minecraft:pumpkin_seeds",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/seeds_pumpkin.png",
+            "img": "./textures/items/seeds_pumpkin.png"
+        },
+        {
+            "name": "种子",
+            "id": "minecraft:wheat_seeds",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/seeds_wheat.png",
+            "img": "./textures/items/seeds_wheat.png"
+        },
+        {
+            "name": "剪刀",
+            "id": "minecraft:shears",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/shears.png",
+            "img": "./textures/items/shears.png"
+        },
+        {
+            "name": "潜影壳",
+            "id": "minecraft:shulker_shell",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/shulker_shell.png",
+            "img": "./textures/items/shulker_shell.png"
+        },
+        {
+            "name": "橡木告示牌",
+            "id": "minecraft:oak_sign",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sign.png",
+            "img": "./textures/items/sign.png"
+        },
+        {
+            "name": "金合欢告示牌",
+            "id": "minecraft:acacia_sign",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sign_acacia.png",
+            "img": "./textures/items/sign_acacia.png"
+        },
+        {
+            "name": "桦木告示牌",
+            "id": "minecraft:birch_sign",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sign_birch.png",
+            "img": "./textures/items/sign_birch.png"
+        },
+        {
+            "name": "深色橡木告示牌",
+            "id": "minecraft:dark_oak_sign",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sign_darkoak.png",
+            "img": "./textures/items/sign_darkoak.png"
+        },
+        {
+            "name": "丛林木告示牌",
+            "id": "minecraft:jungle_sign",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sign_jungle.png",
+            "img": "./textures/items/sign_jungle.png"
+        },
+        {
+            "name": "云杉木告示牌",
+            "id": "minecraft:spruce_sign",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sign_spruce.png",
+            "img": "./textures/items/sign_spruce.png"
+        },
+        {
+            "name": "粘液球",
+            "id": "minecraft:slime_ball",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/slimeball.png",
+            "img": "./textures/items/slimeball.png"
+        },
+        {
+            "name": "雪球",
+            "id": "minecraft:snowball",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/snowball.png",
+            "img": "./textures/items/snowball.png"
+        },
+        {
+            "name": "蜘蛛眼",
+            "id": "minecraft:spider_eye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/spider_eye.png",
+            "img": "./textures/items/spider_eye.png"
+        },
+        {
+            "name": "发酵蛛眼",
+            "id": "minecraft:fermented_spider_eye",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/spider_eye_fermented.png",
+            "img": "./textures/items/spider_eye_fermented.png"
+        },
+        {
+            "name": "木棍",
+            "id": "minecraft:stick",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/stick.png",
+            "img": "./textures/items/stick.png"
+        },
+        {
+            "name": "石斧",
+            "id": "minecraft:stone_axe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/stone_axe.png",
+            "img": "./textures/items/stone_axe.png"
+        },
+        {
+            "name": "石锄",
+            "id": "minecraft:stone_hoe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/stone_hoe.png",
+            "img": "./textures/items/stone_hoe.png"
+        },
+        {
+            "name": "石镐",
+            "id": "minecraft:stone_pickaxe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/stone_pickaxe.png",
+            "img": "./textures/items/stone_pickaxe.png"
+        },
+        {
+            "name": "石锹",
+            "id": "minecraft:stone_shovel",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/stone_shovel.png",
+            "img": "./textures/items/stone_shovel.png"
+        },
+        {
+            "name": "石剑",
+            "id": "minecraft:stone_sword",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/stone_sword.png",
+            "img": "./textures/items/stone_sword.png"
+        },
+        {
+            "name": "线",
+            "id": "minecraft:string",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/string.png",
+            "img": "./textures/items/string.png"
+        },
+        {
+            "name": "糖",
+            "id": "minecraft:sugar",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sugar.png",
+            "img": "./textures/items/sugar.png"
+        },
+        {
+            "name": "甜浆果",
+            "id": "minecraft:sweet_berries",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/sweet_berries.png",
+            "img": "./textures/items/sweet_berries.png"
+        },
+        {
+            "name": "不死图腾",
+            "id": "minecraft:totem_of_undying",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/totem.png",
+            "img": "./textures/items/totem.png"
+        },
+        {
+            "name": "三叉戟",
+            "id": "minecraft:trident",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/trident.png",
+            "img": "./textures/items/trident.png"
+        },
+        {
+            "name": "海龟蛋",
+            "id": "minecraft:turtle_egg",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/turtle_egg.png",
+            "img": "./textures/items/turtle_egg.png"
+        },
+        {
+            "name": "海龟壳",
+            "id": "minecraft:turtle_helmet",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/turtle_helmet.png",
+            "img": "./textures/items/turtle_helmet.png"
+        },
+        {
+            "name": "鳞甲",
+            "id": "minecraft:scute",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/turtle_shell_piece.png",
+            "img": "./textures/items/turtle_shell_piece.png"
+        },
+        {
+            "name": "钟",
+            "id": "minecraft:bell",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/villagebell.png",
+            "img": "./textures/items/villagebell.png"
+        },
+        {
+            "name": "小麦",
+            "id": "minecraft:wheat",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/wheat.png",
+            "img": "./textures/items/wheat.png"
+        },
+        {
+            "name": "木斧",
+            "id": "minecraft:wooden_axe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/wood_axe.png",
+            "img": "./textures/items/wood_axe.png"
+        },
+        {
+            "name": "木锄",
+            "id": "minecraft:wooden_hoe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/wood_hoe.png",
+            "img": "./textures/items/wood_hoe.png"
+        },
+        {
+            "name": "木镐",
+            "id": "minecraft:wooden_pickaxe",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/wood_pickaxe.png",
+            "img": "./textures/items/wood_pickaxe.png"
+        },
+        {
+            "name": "木锹",
+            "id": "minecraft:wooden_shovel",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/wood_shovel.png",
+            "img": "./textures/items/wood_shovel.png"
+        },
+        {
+            "name": "木剑",
+            "id": "minecraft:wooden_sword",
+            "dv": 0,
+            "type": "items",
+            "path": "textures/items/wood_sword.png",
+            "img": "./textures/items/wood_sword.png"
+        }
+    ]
+}
